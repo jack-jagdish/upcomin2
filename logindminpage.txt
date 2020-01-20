@@ -4,3 +4,10 @@ new page using
 login using gmail
 and display if the user in inactive state 
 create 3 views which admin/dashboard/statusofcustomer
+
+
+in status of customer add edit and delete option
+
+
+
+
